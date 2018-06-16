@@ -8,7 +8,12 @@
 
 const solution = (a, b) => {
   return (c) => {
+<<<<<<< Updated upstream
    return a+b+c};
+=======
+    return a+b+c;
+  };
+>>>>>>> Stashed changes
 };
 
 module.exports = {
